@@ -13,3 +13,4 @@ What is an attribute
 What the purpose of each HTML tag 
 
 PREVIEW OF THE PLATFORM
+![pic](https://github.com/Annemarie535257/alu-web-development/assets/144024797/81387e75-4d1a-4b6f-baff-122c25172c87)
